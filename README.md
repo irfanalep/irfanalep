@@ -1,4 +1,4 @@
-<img width="850" src=img/parabainsevangelion.gif/>
+<img width="900" src=img/parabainsevangelion.gif/>
 
 <p align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
