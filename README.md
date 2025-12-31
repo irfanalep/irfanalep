@@ -1,4 +1,4 @@
-<img width="750" src=img/congratulations-evangelion.gif/>
+<img width="800" src=img/congratulations-evangelion.gif/>
 
 <p align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
