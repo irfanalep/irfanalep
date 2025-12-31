@@ -6,7 +6,7 @@
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
 <h3>
 
-<br><br>
+<br>
 
 <h3 align="center">Anything I can operate</h3>
 
@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,windows,kali,git" />
 </p>
 
-<br><br>
+<br>
 
 <h3 align="center">Let's connect</h3>
 
