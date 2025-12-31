@@ -1,6 +1,6 @@
-<img width="500" src=img/congratulations-evangelion.gif/>
+<img width="750" src=img/congratulations-evangelion.gif/>
 
-<p>
+<p align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
 </p>
 
@@ -9,9 +9,7 @@
 <p align="center">Anything I can operate</p>
 
 <p align="center">
-    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,windows,kali,git" />
-    </a>
 </p>
 
 <br>
