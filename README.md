@@ -4,7 +4,7 @@
 
 <h3 align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
-<h3>
+</h3>
 
 <br>
 
