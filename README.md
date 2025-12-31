@@ -2,13 +2,13 @@
 <img src=img/parabainsevangelion.gif/>
 </p>
 
-<p align="center">
+<h3 align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
-</p>
+<h3>
 
 <br><br>
 
-<p align="center">Anything I can operate</p>
+<h3 align="center">Anything I can operate</h3>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,windows,kali,git" />
@@ -16,7 +16,7 @@
 
 <br><br>
 
-<p align="center">Let's connect</p>
+<h3 align="center">Let's connect</h3>
 
 <p align="center">
     <a href="https://www.instagram.com/irfanalep/" target="_blank">
