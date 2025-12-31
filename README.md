@@ -1,10 +1,10 @@
-<img width="900" src=img/parabainsevangelion.gif/>
+<img align="center" src=img/parabainsevangelion.gif/>
 
 <p align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
 </p>
 
-<br>
+<br><br>
 
 <p align="center">Anything I can operate</p>
 
@@ -12,7 +12,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,windows,kali,git" />
 </p>
 
-<br>
+<br><br>
 
 <p align="center">Let's connect</p>
 
