@@ -11,7 +11,7 @@
 <h3 align="center">Anything I can operate</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,windows,kali,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,kali,git" />
 </p>
 
 <br>
