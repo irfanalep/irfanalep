@@ -1,6 +1,5 @@
 <p align="center">
-<img src=img/parabainsevangelion.gif/>
-</p>
+<img src="https://giphy.com/gifs/evangelion-wectie-wectiee-nVMn040IW05Dx6rMg0">
 
 <h3 align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
