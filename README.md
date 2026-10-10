@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF0aHpwZW5temFvYTZ0Z2NvcHQydDdjdGs3emFpcnJjbzN4M2w3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nVMn040IW05Dx6rMg0/giphy.gif">
+<img src="![Congratulations](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXF0aHpwZW5temFvYTZ0Z2NvcHQydDdjdGs3emFpcnJjbzN4M2w3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nVMn040IW05Dx6rMg0/giphy.gif)">
 
 <h3 align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
