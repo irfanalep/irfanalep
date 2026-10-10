@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<img src="https://media.giphy.com/media/nVMn040IW05Dx6rMg0/giphy.gif?v=2" width="800" alt="Banner" />
+<img src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif" width="800" alt="Banner" />
 </p>
 
 <h3>
