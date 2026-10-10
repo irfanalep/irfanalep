@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/nVMn040IW05Dx6rMg0/giphy.gif" width="800" alt="Banner" />
+<img src="https://i.giphy.com/nVMn040IW05Dx6rMg0.gif" width="800" alt="Banner" />
 
 <h3 align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
