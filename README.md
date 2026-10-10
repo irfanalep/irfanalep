@@ -1,23 +1,23 @@
-<p align="center">
-<img src="https://i.giphy.com/nVMn040IW05Dx6rMg0.gif" width="800" alt="Banner" />
+<div align="center">
+<img src="https://media.giphy.com/media/nVMn040IW05Dx6rMg0/giphy.gif" width="800" alt="Banner" />
 
-<h3 align="center">
+<h3>
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
 </h3>
 
 <br>
 
-<h3 align="center">Anything I can operate</h3>
+<h3>Anything I can operate</h3>
 
-<p align="center">
+<p>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,php,mysql,kali,git" />
 </p>
 
 <br>
 
-<h3 align="center">Let's connect</h3>
+<h3>Let's connect</h3>
 
-<p align="center">
+<p>
     <a href="https://www.instagram.com/irfanalep/" target="_blank">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
@@ -25,3 +25,4 @@
         <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
 </p>
+</div>
