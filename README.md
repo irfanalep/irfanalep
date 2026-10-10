@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://giphy.com/gifs/evangelion-wectie-wectiee-nVMn040IW05Dx6rMg0">
+<iframe src="https://giphy.com/embed/nVMn040IW05Dx6rMg0" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h3 align="center">
   I'm Irfan Alif, an aspiring developer with interests in web development, cybersecurity, and data science.
